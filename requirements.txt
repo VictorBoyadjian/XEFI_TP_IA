@@ -1,0 +1,7 @@
+ollama
+rich
+prompt_toolkit
+colorama
+autopep8
+pylint
+pytest
